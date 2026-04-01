@@ -66,7 +66,7 @@ pip install transformers torch
 ## ▶️ Usage
 
 Run the Jupyter Notebook
-```
+
 Example interaction:
 
 ```
