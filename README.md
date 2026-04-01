@@ -22,6 +22,7 @@ It includes hands-on implementations of core NLP and Generative AI concepts.
 IN226027902_GEN_AI_MODULE_TASKS/
 │── Task_1/
 |── Task_2/
+|── Task_3/
 │── README.md
 ```
 
