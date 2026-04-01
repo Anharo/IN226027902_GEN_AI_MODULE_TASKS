@@ -29,12 +29,12 @@ It demonstrates the practical use of **Natural Language Processing (NLP)** and *
 
 ## ⚙️ Model Used
 
-**FLAN-T5 (google/flan-t5-base)**
+**Microsoft DialoGPT-medium**
 
-Why FLAN-T5?
+Why DialoGPT?
 
 * Instruction-tuned model
-* Generates accurate and meaningful responses
+* Generates meaningful responses
 * Faster and more reliable than traditional conversational models like DialoGPT
 
 ---
@@ -65,12 +65,8 @@ pip install transformers torch
 
 ## ▶️ Usage
 
-Run the Python script or Jupyter Notebook:
-
-```bash
-python chatbot.py
+Run the Jupyter Notebook
 ```
-
 Example interaction:
 
 ```
@@ -116,13 +112,6 @@ Chatbot: Goodbye!
 * Deploy chatbot using Flask or FastAPI
 
 ---
-
-## 📎 GitHub Repository
-
-(Add your GitHub repo link here)
-
----
-
 ## 💼 Author
 
 **Anish Sharma**
